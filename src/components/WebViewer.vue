@@ -3,16 +3,15 @@
 
     </div>
 </template>
-
 <script lang="ts">
-import Vue from 'vue'
+// import Vue from 'vue'
 // import WebViewer from '@pdftron/webviewer'
-export default Vue.extend({
-    name: 'WebViewerVue',
-    props: {
-         path: '',
-         url: ''
-    },
+// export default Vue.extend({
+//     name: 'WebViewerVue',
+//     props: {
+//          path: '',
+//          url: ''
+//     },
 //     mounted: function () {
 //     WebViewer({
 //       path: this.path,
@@ -29,7 +28,7 @@ export default Vue.extend({
 //     });
 //   }
 
-})
+// })
 </script>
 
 <style>
